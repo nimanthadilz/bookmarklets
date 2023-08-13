@@ -17,6 +17,10 @@ var paths = {
     cp: "21757",
     ob: "21716",
     ml: "21760",
+
+    // DS module sem 5
+    dnn: "18176"
+
 };
 
 nurl += !(s in paths) ? "my" : "course/view.php?id=" + paths[s];
